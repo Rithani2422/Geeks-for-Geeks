@@ -42,15 +42,26 @@ class Main {
 class Solution {
     // Please change the array in-place
     public void insertionSort(int arr[]) {
+        int i=0;
+        check(arr,i);
         // code here
-        for(int i=1;i<arr.length;i++){
+        //for(int i=1;i<arr.length;i++){
+        
+    }
+        
+        void check(int arr[],int i){
+        if(i==arr.length){
+            return;
+        }
             for(int j=0;j<arr.length-1;j++){
                 if(arr[i]<arr[j]){
                     int temp=arr[j];
                     arr[j]=arr[i];
                     arr[i]=temp;
                 }
+                 
             }
+            check(arr,i+1);
+          
         }
     }
-}
