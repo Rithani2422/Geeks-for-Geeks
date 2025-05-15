@@ -13,18 +13,28 @@ class Solution {
     // Function to sort the array using bubble sort algorithm.
     public static void bubbleSort(int arr[]) {
         // code here
-        for(int i=0;i<arr.length-1;i++){
+        int i=0;
+        check(arr,i);
+    }
+        //for(int i=0;i<arr.length-1;i++){
+       static void check(int arr[],int i){
+            if(i==arr.length-1){
+                return;
+            }
+        
             for(int j=0;j<arr.length-1-i;j++){
                 if(arr[j]>arr[j+1]){
                     int temp=arr[j];
                     arr[j]=arr[j+1];
                     arr[j+1]=temp;
                 }
+                
             }
+            check(arr,i+1);
             
         }
     }
-}
+
 
 
 //{ Driver Code Starts.
