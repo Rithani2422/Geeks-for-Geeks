@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/count-digits-1606889545/1?_gl=1*1ffywsi*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwuIbBBhBvEiwAsNypvcmsjO8Ng4lXKYZINzPR4bVZUcupw4PaZhdNVVUzu5Rr0GcKj94QGBoCk5kQAvD_BwE&gbraid=0AAAAAC9yBkBZ7WmoeqGfHQqOI_boNP7hg">Count Digits</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a natural number <strong>n</strong>. You have to find the number of digits in it and <strong>return </strong>it.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/count-digits-1606889545/1?">Count Digits</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a natural number <strong>n</strong>. You have to find the number of digits in it and <strong>return </strong>it.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input: </strong>n = 5534
 <strong>Output: </strong>4 <strong>
