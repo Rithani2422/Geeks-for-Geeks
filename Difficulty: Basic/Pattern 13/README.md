@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/triangle-pattern-1661718712/1">Pattern 13</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek&nbsp;an integer <strong>n</strong> and asked him to build a pattern.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/triangle-pattern-1661718712/0">Pattern 13</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek&nbsp;an integer <strong>n</strong> and asked him to build a pattern.</span></p>
 
 <p><span style="font-size:18px">Help Geek to&nbsp;build the pattern.</span></p>
 
